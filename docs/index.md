@@ -160,7 +160,7 @@ Timely GSTR-3B filing helps businesses:
 
 Read full article here:
 
-https://taxgarden.in/blog/gstr-3b-filing-guide-india
+[GSTR-3B Filing Guide India](https://taxgarden.in/blog/gstr-3b-filing-guide-india)
 
 ---
 
@@ -176,4 +176,4 @@ Tax Garden helps Indian SMEs with:
 
 Website:
 
-https://taxgarden.in
+[TaxGarden.in](https://taxgarden.in)
